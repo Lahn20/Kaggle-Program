@@ -1,0 +1,29 @@
+##import os
+##if os.getcwd()!='/Users/zhuoranzhang/Desktop/Kaggle/Practice_Costa_Rica':
+ #    os.chdir('/Users/zhuoranzhang/Desktop/Kaggle/Practice_Costa_Rica')
+ ## Costa Rican Household **Poverty Level** Prediction
+### Introduction
+>Many social programs have a hard time making sure the right people are given enough aid. It’s especially tricky when a program focuses on the poorest segment of the population. The world’s poorest typically can’t provide the necessary income and expense records to prove that they qualify.
+>
+In Latin America, one popular method uses an algorithm to verify income qualification. It’s called the Proxy Means Test (or PMT). With PMT, agencies use a model that considers a family’s observable household attributes like the material of their walls and ceiling, or the assets found in the home to classify them and predict their level of need.
+>
+To improve on PMT, the [IDB (the largest source of development financing for Latin America and the Caribbean)](https://www.iadb.org/en) has turned to the Kaggle community. They believe that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance.
+>
+Beyond Costa Rica, many countries face this same problem of inaccurately assessing social need. If Kagglers can generate an improvement, the new algorithm could be implemented in other countries around the world.
+
+<img src="Costarica.png">
+
+### Data
+* File Description
+ * The training set
+ * A sample submission file
+
+* Core data field
+ * Id
+ * Target
+ * idhogar
+ * parentesco1
+ 
+* [Others](https://www.kaggle.com/c/costa-rican-household-poverty-prediction/data)
+
+
