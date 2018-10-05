@@ -2,3 +2,5 @@
 
 Kaggle Competition Website <br/>
 [https://www.kaggle.com/c/costa-rican-household-poverty-prediction/data](https://www.kaggle.com/c/costa-rican-household-poverty-prediction/data)
+
+>please use main.ipynb as working kernal
