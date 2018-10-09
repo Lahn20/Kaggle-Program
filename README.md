@@ -5,7 +5,7 @@ Kaggle Competition Website <br/>
 
 >1.please use main.ipynb as working kernal <br/>
 >2.follow google python style guide as coding style: [google python styple](https://google.github.io/styleguide/pyguide.html)
->>when define variables,please follow the syntax: *variabletype_variable?_name*
+>>when define variables,please follow the syntax: **variabletype_variable?_name**
 
 
 ### Example of Plotly
