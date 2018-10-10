@@ -7,6 +7,10 @@ Kaggle Competition Website <br/>
 >2.follow google python style guide as coding style: [google python styple](https://google.github.io/styleguide/pyguide.html)
 >>when define variables,please follow the syntax: **variabletype_variable?_name**
 
+### Matplotlib Part
+[This is a good tutorial of Matplotlib](https://morvanzhou.github.io/tutorials/data-manipulation/plt/1-1-why/)
+
+
 
 ### Example of Plotly
 Please try to install <mark> plotly <mark/> api. <br/>
