@@ -1,0 +1,19 @@
+hacapo, =1 Overcrowding by rooms
+v14a, =1 has bathroom in the household
+refrig, =1 if the household has refrigerator
+v18q, owns a tablet
+v18q1, number of tablets household owns
+r4h1, Males younger than 12 years of aged
+r4h2, Males 12 years of age and older
+r4h3, Total males in the household
+r4m1, Females younger than 12 years of age
+r4m2, Females 12 years of age and older
+r4m3, Total females in the household
+r4t1, persons younger than 12 years of age
+r4t2, persons 12 years of age and older
+r4t3, Total persons in the household
+tamhog, size of the household
+tamviv, number of persons living in the household
+escolari, years of schooling
+rez_esc, Years behind in school
+hhsize, household size
